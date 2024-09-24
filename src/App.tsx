@@ -38,7 +38,7 @@ function App() {
           index
           element={
             <>
-              <PageTitle title="eCommerce Dashboard | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="eCommerce Dashboard | Ember Drago - Admin Dashboard" />
               <ECommerce />
             </>
           }
@@ -47,7 +47,7 @@ function App() {
           path="/calendar"
           element={
             <>
-              <PageTitle title="Calendar | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Calendar | Ember Drago - Admin Dashboard" />
               <Calendar />
             </>
           }
@@ -56,7 +56,7 @@ function App() {
           path="/profile"
           element={
             <>
-              <PageTitle title="Profile | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Profile | Ember Drago - Admin Dashboard" />
               <Profile />
             </>
           }
@@ -65,7 +65,7 @@ function App() {
           path="/forms/form-elements"
           element={
             <>
-              <PageTitle title="Form Elements | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Form Elements | Ember Drago - Admin Dashboard" />
               <FormElements />
             </>
           }
@@ -74,7 +74,7 @@ function App() {
           path="/forms/form-layout"
           element={
             <>
-              <PageTitle title="Form Layout | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Form Layout | Ember Drago - Admin Dashboard" />
               <FormLayout />
             </>
           }
@@ -83,7 +83,7 @@ function App() {
           path="/tables"
           element={
             <>
-              <PageTitle title="Tables | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Tables | Ember Drago - Admin Dashboard" />
               <Tables />
             </>
           }
@@ -92,7 +92,7 @@ function App() {
           path="/settings"
           element={
             <>
-              <PageTitle title="Settings | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Settings | Ember Drago - Admin Dashboard" />
               <Settings />
             </>
           }
@@ -101,7 +101,7 @@ function App() {
           path="/chart"
           element={
             <>
-              <PageTitle title="Basic Chart | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Basic Chart | Ember Drago - Admin Dashboard" />
               <Chart />
             </>
           }
@@ -110,7 +110,7 @@ function App() {
           path="/ui/alerts"
           element={
             <>
-              <PageTitle title="Alerts | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Alerts | Ember Drago - Admin Dashboard" />
               <Alerts />
             </>
           }
@@ -119,7 +119,7 @@ function App() {
           path="/ui/buttons"
           element={
             <>
-              <PageTitle title="Buttons | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Buttons | Ember Drago - Admin Dashboard" />
               <Buttons />
             </>
           }
@@ -128,7 +128,7 @@ function App() {
           path="/auth/signin"
           element={
             <>
-              <PageTitle title="Signin | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Signin | Ember Drago - Admin Dashboard" />
               <SignIn />
             </>
           }
@@ -137,7 +137,7 @@ function App() {
           path="/auth/signup"
           element={
             <>
-              <PageTitle title="Signup | TailAdmin - Tailwind CSS Admin Dashboard Template" />
+              <PageTitle title="Signup | Ember Drago - Admin Dashboard" />
               <SignUp />
             </>
           }
